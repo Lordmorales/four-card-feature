@@ -1,0 +1,125 @@
+/********** TAG SELECTORS **********/
+Body{
+  background-color: hsl(0, 0%, 98%);
+  font-size: 15px;
+  height: 1440px
+  font-family: "Poppins", sans-serif;
+}
+
+h2{
+  font-weight: 600;
+  color: hsl(234, 12%, 34%);
+  text-align: left;
+  margin: 30px auto 5px 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+p{
+  text-align: left;
+  margin: auto auto 5px 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+
+/********** CLASS SELECTORS **********/
+.attribution{
+}
+
+.bottom-div{
+text-align: center;
+color: hsl(229, 6%, 66%);
+margin: auto auto 50px auto;
+font-family: "Poppins", sans-serif;
+}
+
+.calculator{
+  display: inline-block;
+  height: 260px;
+  width: 350px;
+  background-color: white;
+  position: absolute;
+  top: 535px;
+  left: 920px;
+  font-family: "Poppins", sans-serif;
+  border-style:solid;
+  border-width: 5px;
+  border-color: hsl(212, 86%, 64%) transparent transparent transparent;
+  box-shadow: 0 5px 10px 5px rgba(0,0,0,0.1);
+}
+
+.footer{
+  height: 300px;
+  width: 100%;
+  position: relative;
+  top: 700px;
+}
+
+.icon{
+  margin: 60px 5px 20px auto;
+  position: absolute;
+  left: 75%;
+
+}
+
+.karma{
+display: inline-block;
+height: 260px;
+width: 350px;
+background-color: white;
+position: absolute;
+top: 620px;
+left: 535px;
+margin: auto;
+border-style:solid;
+border-width: 5px;
+border-color: hsl(34, 97%, 64%) transparent transparent transparent;
+box-shadow: 0 5px 10px 5px rgba(0,0,0,0.1);
+}
+
+.powered{
+font-size: 35px;
+font-weight: 600;
+color: hsl(234, 12%, 34%);
+}
+
+.reliable{
+  font-size: 35px;
+  font-weight: 100;
+  color: #757575;
+}
+
+.supervisor{
+display: inline-block;
+height: 260px;
+width: 350px;
+background-color: white;
+position: absolute;
+top: 535px;
+left: 150px;
+border-style:solid;
+border-width:5px;
+border-color: hsl(180, 62%, 55%) transparent transparent transparent;
+box-shadow: 0 5px 10px 5px rgba(0,0,0,0.1);
+}
+
+.team-builder{
+  display: inline-block;
+  height: 260px;
+  width: 350px;
+  background-color: white;
+  position: absolute;
+  top: 320px;
+  left: 535px;
+  border-style:solid;
+  border-width:5px;
+  border-color:hsl(0, 78%, 62%) transparent transparent transparent;
+  box-shadow: 0 5px 10px 5px rgba(0,0,0,0.1);
+
+}
+
+.top-div{
+text-align: center;
+line-height: 1.5;
+margin: 80px auto 20px auto;
+font-family: "Poppins", sans-serif;
+}
